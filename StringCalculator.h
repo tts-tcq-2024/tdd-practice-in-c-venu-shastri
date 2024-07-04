@@ -1,4 +1,6 @@
 int add(const char* input){
-  //if(input is emptyString){ return 0;}
+  if (input == NULL || input[0] == '\0') {
+        return 0; // The string is empty
+    }
   return -1;
 }
