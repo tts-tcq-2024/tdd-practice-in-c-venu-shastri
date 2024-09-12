@@ -1,0 +1,14 @@
+- Given "" string , when add function invoked , then 0 is expected
+- Given "" string , when add function invoked , then 0 is expected
+- Given "" string , when add function invoked , then 0 is expected
+- Given "" string , when add function invoked , then 0 is expected
+- Given "" string , when add function invoked , then 0 is expected
+- Given "" string , when add function invoked , then 0 is expected
+- Given "" string , when add function invoked , then 0 is expected
+- Given "" string , when add function invoked , then 0 is expected
+
+Given below input from table when add function invoked then result from table expected
+input    result
+""         0
+0          0
+1,2        3
